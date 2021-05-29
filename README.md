@@ -44,7 +44,8 @@ _opinion_. My personal top list of extensions to install in VSCode for enhanced 
 
 
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - keywords: `eamodio.gitlens`
+  - extension-id: `eamodio.gitlens`
+  - keywords: visualize last git contributor(s) to files and individual lines-of-code 
 
 
 ---
@@ -53,7 +54,7 @@ _opinion_. My personal top list of extensions to install in VSCode for enhanced 
 ## For Real-Time Collaborating
 
 
-- Live Share Extension Pack(https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
   - extension-id: `ms-vsliveshare.vsliveshare-pack`
   - keywords: remote collaboration, share localhost, real-time pair programming.
 
