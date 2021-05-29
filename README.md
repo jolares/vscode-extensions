@@ -6,6 +6,7 @@ _opinion_. My personal top list of vscode extensions for productivity.
 
 ## For Remote Development
 
+
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
   - extension-id: `ms-vscode-remote.vscode-remote-extensionpack`
   - marketplace: 
@@ -14,24 +15,43 @@ _opinion_. My personal top list of vscode extensions for productivity.
 ---
 
 
-## For Package Management
+## For Containers
 
 
-### NodeJS
+### Docker
 
-Version Lens
-pflannery.vscode-versionlens
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+  - extension-id: `ms-azuretools.vscode-docker`
+
 
 
 ---
 
+
+## For Package Management 
+
+
+### NodeJS
+
+[Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+  - extension-id: `pflannery.vscode-versionlens`
+
+
+---
+
+
 ### For Version Control
 
 
-GitLens — Git supercharged
-eamodio.gitlens
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - keywords: `eamodio.gitlens`
 
-## For Collaborating
+
+---
+
+
+## For Real-Time Collaborating
+
 
 - Live Share Extension Pack(https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
   - extension-id: `ms-vsliveshare.vsliveshare-pack`
@@ -54,7 +74,7 @@ eamodio.gitlens
 ## For Frontend Development
 
 
-## Angular
+### Angular
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
   - extension-id: `angular.ng-template`
