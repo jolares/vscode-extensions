@@ -1,7 +1,7 @@
 # VSCode Extensions
 
 
-_opinion_. My personal top list of vscode extensions for productivity.
+_opinion_. My personal top list of extensions to install in VSCode for enhanced productivity.
 
 
 ## For Remote Development
